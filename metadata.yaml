@@ -1,5 +1,5 @@
 _repo: Onnen-suosikki-Romaani_56786
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Burning daylight. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     deathdate: 1919
     gutenberg_agent_id: '41860'
     url: http://www.gutenberg.org/2009/agents/41860
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56786#Onnen-suosikki-Romaani
 gutenberg_issued: '2018-03-19'
 gutenberg_type: Text
 identifiers:
