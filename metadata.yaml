@@ -1,0 +1,42 @@
+_repo: Onnen-suosikki-Romaani_56786
+_version: 0.0.1
+alternative_title: Burning daylight. Finnish
+contributor:
+  translator:
+    agent_name: Simolin, Kerttu Emilia
+    aliases:
+    - Hirvela, Kerttu Emilia
+    - Hirvelä, Kerttu Emilia
+    - Tuura, Kerttu Emilia
+    birthdate: 1887
+    deathdate: 1919
+    gutenberg_agent_id: '41860'
+    url: http://www.gutenberg.org/2009/agents/41860
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2018-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56786'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Gold mines and mining -- Alaska -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Women pioneers -- Fiction'
+- !lcsh 'Oakland (Calif.) -- Fiction'
+- !lcsh 'Bankruptcy -- Fiction'
+- GITenberg
+title: 'Onnen suosikki: Romaani'
+url: http://www.gutenberg.org/ebooks/56786
